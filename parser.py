@@ -1,6 +1,7 @@
-# 1. Open a file for reading
+# 1. Import regex module
+
+# 2. Create regex pattern
 with open("sample-data/auth.log", "r") as input_file:
-    # 2. Loop through the lines in the file
     for line in input_file:
-        # 3. Print the lines to the command line
+        #3. Only print line if it matches regex pattern
         print line      
