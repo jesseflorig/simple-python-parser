@@ -16,6 +16,7 @@ The purpose of this lab is to get familiar with basic data types and functions w
 
 Resources:
 - [REPL.it](https://repl.it)
+- [Built-in Functions](https://docs.python.org/2.7/library/functions.html)
 
 ## Lab 2 - Reading a file
 
@@ -43,8 +44,3 @@ git checkout lab-4
 ```
 
 The purpose of this lab is to modify your script to write your results to a file
-
-## Next Steps
-- [ ] Parameterization of input and output
-- [ ] Timestamping output
-- [ ] Batch processing
